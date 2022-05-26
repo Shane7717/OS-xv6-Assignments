@@ -1,0 +1,6 @@
+OS Assignment 2.pdf
+README.md
+a.txt
+shell
+shell.c
+words.txt
